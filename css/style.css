@@ -1,0 +1,22 @@
+@charset "utf-8";
+/*404 page*/
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family:poppins ;
+    background-image: url("../css/bg.png");
+    background-size: 350px;
+    background-position: center ;
+
+}
+*{
+    box-sizing: border-box;
+
+}
+a{
+    text-decoration: none;
+    color:#fff;
+}
+#container{
+    width:100%;
+}
