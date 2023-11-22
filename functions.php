@@ -14,7 +14,7 @@ function check_login($con){
         }
     }
     //redirect to login
-    header("Location: Brands/Login.php");
+    header("Location: Login.php");
     die;
 }
 

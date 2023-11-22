@@ -1,8 +1,8 @@
 <?php
 session_start();
 
-    include("connection.php");
-    include("functions.php");
+    include("/xampp/htdocs/131620/connection.php");
+    include("/xampp/htdocs/131620/functions.php");
 
     $user_data = check_login($con);
     
